@@ -29,4 +29,4 @@ html 코드 작성
 [simple icons](https://simpleicons.org/)  
 [Shields.io](https://shields.io/)  
 ![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
-<img alt="Static Badge" src="https://img.shields.io/badge/:anaconda-brightgreen">  
+<img src="https://img.shields.io/badge/shimseonjo-FFCA28-apple&logoColor/">  
