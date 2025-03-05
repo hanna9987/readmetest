@@ -29,13 +29,13 @@ html 코드 작성
 [simple icons](https://simpleicons.org/)  
 [Shields.io](https://shields.io/)  
 ![Static Badge](https://img.shields.io/badge/:build-passing-brightgreen)  
-<img src="https://img.shields.io/badge/shimseonjo-FFCA28-apple&logoColor=000000/">  
+<img src="https://img.shields.io/badge/shimseonjo-FFCA28?style=flat-square&logo=apple&logoColor=000000"/>  
 
 ![표시문자](url)
 ![git](https://git-scm.com/images/logo@2x.png)  
 
-*강조*
-_강조_
-**강조**
-__강조__
-~~강조~~
+*강조*  
+_강조_  
+**강조**  
+__강조__  
+~~강조~~  
